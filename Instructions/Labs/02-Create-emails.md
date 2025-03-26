@@ -32,7 +32,7 @@ lab:
 
 1. メールをデザインします。 セットアップ手順でアップロードしたヒーロー画像を使用し、デザインとコンテンツのアイデアについては、下のウェルカム メール 1 のスクリーンショットを参照してください。 画像とコンテンツは必要に応じて変更できますが、このメールに行動喚起のボタンを含めてください。この体験内の分岐条件として使用するためです。
 
-![ウェルカム メール 1 のスクリーンショット。](../Labs/Media/welcome-email-1-example.png) 
+    ![ウェルカム メール 1 のスクリーンショット。](../Labs/Media/welcome-email-1-example.png) 
 
 1. このメールのサンプル コピーを次に示します。 これをコピーしてメールのデザインに貼り付けることができます。 **カスタマイズ**を使用して、連絡先の名の動的なコンテンツを入力します。 
 
@@ -81,7 +81,7 @@ lab:
 
 1. メールをデザインします。 デザインとコンテンツのアイデアについては、下のウェルカム メール 2 のスクリーンショットを参照してください。 必要に応じて、画像とコンテンツを変更できます。 
 
-![ウェルカム メール 2 のスクリーンショット。](../Labs/Media/welcome-email-2-example.png) 
+    ![ウェルカム メール 2 のスクリーンショット。](../Labs/Media/welcome-email-2-example.png) 
 
 1. このメールのサンプル コピーを次に示します。 これをコピーしてメールのデザインに貼り付けることができます。 (注: FirstName は最初のメールからそのまま残して、残りのコピーをこれに置き換えることをお勧めします)。 
 
@@ -109,7 +109,7 @@ We will create one final email by copying email 2.
 
 1. Design the email. Refer to the screenshot of Welcome Email 3 below for design and content ideas. You can modify the images and content as desired. 
 
-![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
+    ![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
 
 1. Here is sample copy for this email. You can copy and paste this into your email design. (Note: We recommend leaving FirstName from the first email and then replacing the rest of the copy with this.) 
 
@@ -118,8 +118,9 @@ We will create one final email by copying email 2.
 
     以下のリンクを使用して、当社の Web サイトからキットをダウンロードしてください。
     
-    ご質問がある場合は遠慮なくお問い合わせください。 どうぞよろしくお願いいたします。John Smith、保険の専門家   jsmith@contosoinsurance.com 888-888-8888 
+    ご質問がある場合は遠慮なくお問い合わせください。 どうぞよろしくお願いいたします。John Smith、保険の専門家   jsmith@contosoinsurance.com 888-888-8888
+    ```
 
-1. メールのボタンを更新します。 **ボタン テキスト** フィールドで、**ウェルカム メール用にここをクリック**して変更します。
+1. Update the button in the email. In the **Button text** field, change it to **Click here for the welcome kit.**
 
-1. メールをプレビュー、テスト、公開します。
+1. Preview, test, and go live with your email.
